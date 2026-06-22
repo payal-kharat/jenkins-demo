@@ -1,1 +1,1 @@
-print("Welcome to FCT")
+print"Welcome to FCT")
